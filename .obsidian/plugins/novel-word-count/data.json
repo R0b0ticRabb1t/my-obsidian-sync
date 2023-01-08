@@ -11,6 +11,15 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "New File To Test.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1673178211365,
+      "modifiedDate": 1673178211365
+    },
     "README.md": {
       "noteCount": 1,
       "wordCount": 2,

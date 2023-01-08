@@ -11,8 +11,13 @@
             "id": "2233d9accce8ebc4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "New File To Test.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -93,7 +98,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "New File To Test.md"
+              }
             }
           },
           {
@@ -102,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "New File To Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "New File To Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "New File To Test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",

@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "557086c8f9f040e9",
+        "id": "d4a5b625959bb1d0",
         "type": "tabs",
         "children": [
           {
-            "id": "2233d9accce8ebc4",
+            "id": "508dd60f96304532",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New File To Test.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -50,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cytosk",
+                "query": "glycosidic bonds",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,9 +93,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "New File To Test.md"
-              }
+              "state": {}
             }
           },
           {
@@ -109,14 +102,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New File To Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "efc17b3b5cf5a39b",
+            "id": "70ee82672743a81e",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -137,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New File To Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +152,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "New File To Test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -213,21 +203,21 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2233d9accce8ebc4",
+  "active": "70ee82672743a81e",
   "lastOpenFiles": [
     "NEET Only Things/Connective Tissues.md",
-    "Biology/2 Biological Molecules/Proteins/4 Bonds in Folded Proteins.md",
-    "Biology/3 Enzymes/Vmax.md",
-    "English AS levels/English AS Level Youtube Notes.md",
-    "Biology/3 Enzymes/Factors Affecting Enzyme Activity.md",
-    "NEET Only Things/Plants/Xylem.md",
-    "Biology/4 Cell Surface Membrane/Cell Signalling.md",
-    "NEET Only Things/Plants/Parenchyma.md",
-    "NEET Only Things/Animal Tissues.md",
-    "NEET Only Things/Epithelial Tissues.md"
+    "Biology/4 Cell Surface Membrane/Diffusion.md",
+    "Biology/3 Enzymes/Michaelis-Menten Constant.md",
+    "Biology/3 Enzymes/Enzyme Affinities.md",
+    "Biology/1 Cells/Parts of Cells/Lysosomes.md",
+    "NEET Only Things/Plants/Plant Tissues.md",
+    "Inbox/CarboCation.md",
+    "Guide.md",
+    "Biology/2 Biological Molecules/Carbohydrates/Disaccharides.md",
+    "Biology/2 Biological Molecules/Lipids/Triglycerides.md"
   ]
 }

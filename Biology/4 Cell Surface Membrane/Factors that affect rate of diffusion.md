@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-01-09
-sr-interval: 3
+sr-due: 2023-01-17
+sr-interval: 8
 sr-ease: 254
 ---
 ## Factors that change the speeed of diffusion
@@ -16,6 +16,5 @@ This limits cells to smaller size, because bigger cells would have too much volu
 More temperature --> more kinetic energy --> faster diffusion
 ### Size of molecules
 Bigger molecules need more energy to move, and move slower, so are slower at diffusing than bigger molecules
-
 ### Type of Molecule
 Some are just annoying and polar or nonpolar and can't diffuse across whatever

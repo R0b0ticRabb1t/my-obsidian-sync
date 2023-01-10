@@ -1,9 +1,8 @@
 ---
-sr-due: 2023-01-09
-sr-interval: 3
-sr-ease: 261
+sr-due: 2023-01-20
+sr-interval: 11
+sr-ease: 281
 ---
-
 # Facilitated Diffusion
 #biology
 

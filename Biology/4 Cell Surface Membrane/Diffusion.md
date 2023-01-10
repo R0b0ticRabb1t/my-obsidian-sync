@@ -1,10 +1,10 @@
 ---
-sr-due: 2023-01-10
-sr-interval: 4
+sr-due: 2023-01-21
+sr-interval: 11
 sr-ease: 280
 ---
 # Diffusion
-#biology 
+#biology nnn
 Diffusion is the **net movement** of substances from an area of high to low concentration/ across a concentration gradient.
 Its caused by the random motion of particles, [[Brownian Motion]]
 
